@@ -1,1 +1,1 @@
-A PDF reader made with JavaScript
+A PDF reader made with JavaScript and PDF.js library
